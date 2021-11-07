@@ -1,0 +1,31 @@
+.mainbanner-container {
+  background-image: url(../../images/banner.png);
+  height: 570px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  overflow: hidden;
+}
+.info-banner {
+  text-align: center;
+  color: white;
+  margin-top: 100px;
+  font-size: 55px;
+}
+.hard-info {
+  color: #f4af00b9;
+}
+.taime-infobanner {
+  color: white;
+  font-size: 42px;
+  display: block;
+}
+@media (min-width: 300px) and (max-width: 800px) {
+  .info-banner {
+    font-size: 20px;
+  }
+  .taime-infobanner {
+    font-size: 18px;
+  }
+}

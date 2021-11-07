@@ -1,0 +1,19 @@
+.expert-container {
+  background-color: gainsboro;
+  padding: 50px 0px;
+  overflow: hidden;
+}
+.expert-info {
+  text-align: center;
+}
+.expert-info h1 {
+  font-weight: 400;
+  color: #525252;
+}
+.expert-info h5 {
+  font-weight: 400;
+  color: #525252;
+}
+.expertHead-design {
+  font-weight: 700;
+}

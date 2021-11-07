@@ -1,0 +1,33 @@
+.about-container {
+  padding: 50px;
+}
+.about-image {
+  width: 500px;
+  border-radius: 10px;
+}
+.about-trainingCenter {
+  font-weight: 700;
+  color: #011f39;
+}
+.about-information {
+  color: #e1193e;
+}
+.style-info-about {
+  color: #e1193e;
+}
+.about-details {
+  color: gray;
+}
+@media (min-width: 300px) and (max-width: 800px) {
+  .about-container {
+    padding: 10px;
+  }
+  .about-image {
+    margin-top: 20px;
+    width: 280px;
+  }
+  .about-trainingCenter {
+    font-weight: 300;
+    line-height: 50px;
+  }
+}
